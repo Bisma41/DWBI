@@ -1,4 +1,3 @@
-
 USE [Lab 06];
 
 -- Insert Sample Data
