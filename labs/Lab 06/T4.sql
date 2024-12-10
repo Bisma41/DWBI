@@ -18,4 +18,4 @@ SELECT
     TotalSales
 FROM RankedSales
 WHERE SalesRank = 1
-ORDER BY ProductName, Year;
+ORDER BY ProductName,Year;
